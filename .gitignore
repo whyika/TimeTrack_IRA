@@ -1,0 +1,4 @@
+# Project exclude paths
+/TimeTrackerKMP/.gradle/
+/TimeTrackerKMP/composeApp/build/
+/TimeTrackerKMP/composeApp/build/classes/kotlin/desktop/main/

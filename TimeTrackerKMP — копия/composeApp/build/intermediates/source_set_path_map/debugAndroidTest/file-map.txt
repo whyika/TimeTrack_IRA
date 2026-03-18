@@ -1,0 +1,4 @@
+org.example.timetracker.test.composeApp-androidTest-0 C:\Users\bogda\Documents\kotlin\TimeTrackerKMP\composeApp\build\generated\res\resValues\androidTest\debug
+org.example.timetracker.test.composeApp-mergeDebugAndroidTestResources-1 C:\Users\bogda\Documents\kotlin\TimeTrackerKMP\composeApp\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.example.timetracker.test.composeApp-mergeDebugAndroidTestResources-2 C:\Users\bogda\Documents\kotlin\TimeTrackerKMP\composeApp\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.example.timetracker.test.composeApp-merged_res-3 C:\Users\bogda\Documents\kotlin\TimeTrackerKMP\composeApp\build\intermediates\merged_res\debugAndroidTest
